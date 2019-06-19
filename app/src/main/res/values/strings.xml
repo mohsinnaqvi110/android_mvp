@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MVP</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="done">done</string>
+    <string name="email_empty">Email is empty!</string>
+    <string name="email_format">Email format is incorrect!</string>
+    <string name="password_empty">Password is empty!</string>
+    <string name="success">Its done success :)</string>
 </resources>

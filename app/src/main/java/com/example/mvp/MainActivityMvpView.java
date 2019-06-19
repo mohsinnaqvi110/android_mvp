@@ -8,5 +8,7 @@ import com.example.mvp.base.MvpView;
  */
 public interface MainActivityMvpView extends MvpView {
 
+    void showError(String error);
 
+    void showSuccess(String result);
 }
